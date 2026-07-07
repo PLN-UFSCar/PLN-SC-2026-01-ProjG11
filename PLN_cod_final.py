@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-  Colab usado ->  https://colab.research.google.com/drive/1MD0KBItoglQRpxUI6jq7HptxZQDPt0XM
-"""
+#Colab usado ->  https://colab.research.google.com/drive/1MD0KBItoglQRpxUI6jq7HptxZQDPt0XM
 
 !pip install -q datasets sentence-transformers spacy scipy scikit-learn
 !python -m spacy download pt_core_news_lg -q
