@@ -290,3 +290,5 @@ Explicação: Pares com baixa similaridade real mas com alguns tokens sobreposto
 ### 8.2 Conclusão
 
 Este projeto evidencia que a escolha entre abordagens simbólicas e neurais é profundamente contextual. Para tarefas exigindo **interpretabilidade e calibração**, métodos sintáticos são preferíveis. Para tarefas exigindo **captura de semântica fina**, aprendizado profundo é necessário. Idealmente, abordagens híbridas exploram o melhor de ambos os mundos.
+
+Apresentação: https://docs.google.com/presentation/d/1zBDiaJsL1AybiUA4RZ0XVYokEy6c2R-XNjyoEkxygSg/edit?usp=sharing
